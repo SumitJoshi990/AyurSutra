@@ -389,9 +389,9 @@ Developed at **KIET Group of Institutions**
 | Name | Role |
 |------|------|
 | Sumit Joshi | Full Stack Developer and Project Lead |
-| Tanishq Kumar | Backend Developer and Database Architect |
-| Riya Maurya | Frontend Developer and UI/UX Designer |
-| Raman Kumar Sherawat | Python Engine Developer and Ayurvedic Logic |
+| Riya Maurya | Backend Developer and Database Architect |
+| Raman Kumar Sehrawat | Frontend Developer and UI/UX Designer |
+| Tanishq Kumar | Python Engine Developer and Ayurvedic Logic |
 
 ---
 
